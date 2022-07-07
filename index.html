@@ -1,0 +1,172 @@
+<HTML>
+<center>
+
+
+<head>
+	
+	<a name="home"></a>
+	<title>About Me</title>
+	<link rel="stylesheet" type="text/css" href="MYStyles.css">
+	<a class="menu" href="#about">About Me| </a>
+	<a class="menu" href="#motto">My Motto|</a>
+	<a class="menu" href="#Experience">Experience|</a>
+	<a class="menu" href="#contact">Contact Me</a>
+	
+		
+	<hr>
+	
+</head>
+
+<body>
+	
+	<h1 id="MyName">Lior Elbaz</h1>
+	<h2>Welcome To My Website</h2>
+	<img src="Images/ProfilePicture.JPG">
+	
+	<hr>
+	
+	<a name="about"></a>
+	<h1>About Me</h1>
+	<p id="About"><i>My name is Lior Elbaz I am 53 years old and currently live in Petach-Tikva, Israel,</br>
+	I am happily married to Naomi for 15 years And father to an amazing 12 years old tweens.
+	</i></p>
+	
+	<img src="Images/MeNaomi.jpg">
+
+	</br>
+	</br>
+	<hr>
+	</br>
+
+	<a name="motto"></a>
+	<h1>My Motto In Life</h1>
+	<p><div id="About"><i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment"</i></div></br>
+	- Ralph Waldo Emerson -</p>
+
+	</br>
+	<hr>
+	</br>
+
+
+	<a name="Experience"></a>
+	<h1>Work Experience</h1>
+	</br>
+	
+		<h3><u>*Owner of Gilleri Jewel - Private Jewelry Studio*</u></h3>
+			
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Design and craft unique handmade jewelry under a private brand - Gilleri Jewel </br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Establish and maintain an Internet site using <b>SHOPIFY e-commerce</b> platform <a href="https://www.gilleri.com" target="_blank">https://www.gilleri.com</a></br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Open and manage an ETSY e-commerce shop <a href="https://www.etsy.com/shop/Gilleri" target="_blank">https://www.etsy.com/shop/Gilleri</a></br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Design 3D Models using <b>Rhino - Rhinoceros 3D</b></br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Manage all Digital Marketing aspects: Managing & optimize 'PPC Campaigns' using <b>'Facebook Bussiness Manager' & 'Google Ads'</b></br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Analyze Website Performence using <b>'Google Analytics' & 'Google Tags'</b>
+		
+		</br>
+		</br>
+		</br>
+				
+		<h3><u>*SkyVision - NOC & Global Technical Support Manager*</u></h3>
+		
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Establishing of Network Operations Center (NOC)</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Leading a department of 20 Technical Support engineers (Tier 1&2) in a 24/7 operating environment</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Define and manage the support processes, training, and knowledge programs</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Evaluate NOC Teams performances on a daily, weekly, and monthly basis</br>		
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Effectively prioritize and execute tasks and projects in a high-pressure environment
+		
+		</br>
+		</br>
+		</br>
+		
+		<h3><u>*Check Point Software Technologies*</u></h3>
+		<h4>1.IT Operation Manager</h4>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Manage Support team of 7 System managers in Windows and Unix environments</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Manage and maintain the IT support agreements (HW & SW)</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Define and implement the <b>CRM</b> requirements for the IT Department – Oracle Siebel platform</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Managing <b>SOX (Sarbanes Oxley) Project</b> for the IT Department</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Evaluate IT & Support performances on a daily and monthly basis to be in compliance with SOX regulations
+		
+		</br>
+		</br>
+		
+		<h4>2.Purchasing Manager (Israel)</h4>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Managing  all procurement aspects in Check Point Israel</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Managing of 4 buyers</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Supporting and handling  all IT procurement requirements for the R&D, QA, and IT departments (HW & SW; Network)</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Responsible for all Logistic Services Procurements (Employment Agencies, Office Equipment)</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Manage Cost Reduction and Quality</br>
+		<img class="Symbol_OK" src="Images/200px-Symbol_OK.png">
+		Develop, lead and execute purchasing strategies
+		
+		</br>
+		</br>
+		</br>
+		<hr>
+	
+	
+	<a name="contact"></a>
+	<h2>Contact Info</h2>
+	Email: lior6312@gmail.com </br>
+	<a href="https://www.linkedin.com/in/lior-elbaz-5aa367/" target="_blank">linkedin</a>
+	
+	</br>
+	</br>
+	
+	
+	<!-- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top -->
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+	<script>
+	//Get the button
+	var mybutton = document.getElementById("myBtn");
+
+	// When the user scrolls down 20px from the top of the document, show the button
+	window.onscroll = function() {scrollFunction()};
+
+	function scrollFunction() {
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+	} else {
+    mybutton.style.display = "none";
+	}
+}
+
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+	document.body.scrollTop = 0;
+	document.documentElement.scrollTop = 0;
+}
+	</script>
+
+</body>
+
+	<hr>
+	<a class="menu" href="#home">Home|</a>
+	<a class="menu" href="#about">About Me|</a>
+	<a class="menu" href="#motto">My Motto|</a>
+	<a class="menu" href="#Experience">Experience|</a>
+	<a class="menu" href="#contact">Contact Me</a>
+	
+
+
+</HTML>
